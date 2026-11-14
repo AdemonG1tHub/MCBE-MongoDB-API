@@ -1,5 +1,3 @@
-# NetherGate Bridge
-
 A small **TypeScript** HTTP bridge that lets **Minecraft Bedrock** script addons
 talk to **MongoDB**.
 
